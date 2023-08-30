@@ -1,4 +1,4 @@
-# Autopilot-with-Nodejs-and-ChatGPT
+# AutoCoder-with-Nodejs-and-ChatGPT
 Welcome to my auto coder - Inspired by a video from Unconventional Coding who demonstrated one using Python, I wanted to give it a go with Nodejs.
 This code gives chat gpt access to a folder in which it can read, write and delete files.
 It asks the user for a project to work on and then loops through the various functions as it tries to achieve it.
