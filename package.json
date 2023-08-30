@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt_functioncalltest1",
+  "version": "1.0.0",
+  "description": "Test of function calling with GPTAPIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node App.js"
+  },
+  "keywords": [
+    "chatGPT",
+    "function-call",
+    "nodejs"
+  ],
+  "author": "A Formosa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "openai": "^3.3.0",
+    "readline": "^1.3.0"
+  }
+}
